@@ -1,0 +1,25 @@
+{
+  "name": "expresspractice",
+  "version": "1.0.0",
+  "description": "Learning express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhishakya/ExpressPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhishakya/ExpressPractice/issues"
+  },
+  "homepage": "https://github.com/adhishakya/ExpressPractice#readme",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
